@@ -13,5 +13,4 @@
 
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/CarlosCastr0)
-- ⚡ Passionate about new mobile technologies.
-
+- ⚡ Passionate about jiu-jitsu.
