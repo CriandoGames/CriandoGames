@@ -9,7 +9,7 @@
 ### Hello! <img style="margin: 0 auto" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" height="50"> Welcome to my profile :octocat:
 
 - 🔭 I’m currently working on mobile development
-- 🌱 I’m currently learning Dart, 💙 Flutter, C#, 💙 Unity - 👯
+- 🌱 I’m currently learning Dart, 💙 Flutter, C#, 💙 Unity - 👯  💙 Js-Node- whith MySQL and  MongoDB 👯
 
 - 💬 Ask me about them, open an **issue**
 - 📫 How to reach me : [Telegram](https://t.me/CarlosCastr0)
