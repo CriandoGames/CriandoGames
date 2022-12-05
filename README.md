@@ -8,7 +8,6 @@
 - Software Engineer focused in Back End development. 
 - 31 years old, Brazilian
 - Ask me about them, open an **issue**
-- How to reach me : [Telegram](https://t.me/CarlosCastr0)
 - Passionate about jiu-jitsu.
 - Graduated in Systems Information, Estácio de Sá.
 
