@@ -1,7 +1,5 @@
 
-
 ### Hi!
-
 
 ### About Me:
 - ﻿# My name is Carlos Castro
@@ -10,7 +8,6 @@
 - Ask me about them, open an **issue**
 - Passionate about jiu-jitsu.
 - Graduated in Systems Information, Estácio de Sá.
-
 
 
 ### Skills:
