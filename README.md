@@ -25,8 +25,7 @@
 ![.net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)&nbsp;
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SEUUSERNAME&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=CriandoGames&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
 ###  Social:
 
 <a href="https://www.linkedin.com/in/carloscastro-br/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
